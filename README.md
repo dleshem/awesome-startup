@@ -15,3 +15,6 @@ A curated list of awesome startup-related resources.
 ## Culture
 * [Netflix Culture](https://www.slideshare.net/reed2001/culture-1798664) - Reed Hastings on creating a culture of excellence and high performance.
 * [Why Amazon is Eating the World](https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/) - How Jeff Bezos made Amazon efficient where it matters.
+
+## Investing
+* [Power Laws in Venture](https://reactionwheel.net/2015/06/power-laws-in-venture.html) - Modeling venture returns (math heavy).
