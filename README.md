@@ -21,3 +21,4 @@ A curated list of awesome startup-related resources.
 * [Why Do VCs Insist on Only Investing in High-Risk, High-Return Companies?](https://reactionwheel.net/2019/01/why-do-vcs-insist-on-only-investing-in-high-risk-high-return-companies.html) - Implications of power law on venture capital.
 * [Betting on the Ponies: Non-Unicorn Investing](https://reactionwheel.net/2014/07/betting-ponies.html) - A framework for angel investing.
 * [Playing Different Games](https://randle.substack.com/p/playing-different-games) - How Tiger Global is disrupting venture capital.
+* [The Bessemer Memos](https://www.bvp.com/memos) - Retrospective collection of investment recommendation memoranda.
