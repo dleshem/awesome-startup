@@ -18,6 +18,7 @@ A curated list of awesome startup-related resources.
 
 ## Fundraising
 * [Venture Deals](https://www.goodreads.com/book/show/11865558-venture-deals) (book) - Fundraising 101.
+* [How VCs Think: The Psychology That Drives Investing Decisions](https://www.nfx.com/post/how-vcs-think-investing-decisions/) - Gigi Levy-Weiss on the VC mindset.
 * [The Bessemer Memos](https://www.bvp.com/memos) - Retrospective collection of investment recommendation memoranda.
 
 ## Investing
