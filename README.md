@@ -17,6 +17,7 @@ A curated list of awesome startup-related resources.
 * [Why Amazon is Eating the World](https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/) - Jeff Bezos' method for optimizing Amazon on all levels.
 
 ## Fundraising
+* [Venture Deals](https://www.goodreads.com/book/show/11865558-venture-deals) (book) - Fundraising 101.
 * [The Bessemer Memos](https://www.bvp.com/memos) - Retrospective collection of investment recommendation memoranda.
 
 ## Investing
