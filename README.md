@@ -17,6 +17,6 @@ A curated list of awesome startup-related resources.
 * [Why Amazon is Eating the World](https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/) - How Jeff Bezos made Amazon efficient where it matters.
 
 ## Investing
-* [Power Laws in Venture](https://reactionwheel.net/2015/06/power-laws-in-venture.html) - Modeling venture returns (math heavy).
+* [Power Laws in Venture](https://reactionwheel.net/2015/06/power-laws-in-venture.html) (math heavy) - Modeling venture returns.
 * [Why Do VCs Insist on Only Investing in High-Risk, High-Return Companies?](https://reactionwheel.net/2019/01/why-do-vcs-insist-on-only-investing-in-high-risk-high-return-companies.html) - Implications of power law on venture capital.
 * [Betting on the Ponies: Non-Unicorn Investing](https://reactionwheel.net/2014/07/betting-ponies.html) - A framework for angel investing.
