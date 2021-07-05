@@ -17,8 +17,9 @@ A curated list of awesome startup-related resources.
 * [Why Amazon is Eating the World](https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/) - Jeff Bezos' method for optimizing Amazon on all levels.
 
 ## Fundraising
-* [Venture Deals](https://www.goodreads.com/book/show/11865558-venture-deals) (book) - Fundraising 101.
 * [How VCs Think: The Psychology That Drives Investing Decisions](https://www.nfx.com/post/how-vcs-think-investing-decisions/) - Gigi Levy-Weiss on the VC mindset.
+* [Secrets of Sand Hill Road](https://www.goodreads.com/book/show/42348376-secrets-of-sand-hill-road) (book) - Scott Kupor on venture capital and how to get it. 
+* [Venture Deals](https://www.goodreads.com/book/show/11865558-venture-deals) (book) - The technical aspects of raising from VCs.
 * [The Bessemer Memos](https://www.bvp.com/memos) - Retrospective collection of investment recommendation memoranda.
 
 ## SaaS
