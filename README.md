@@ -5,6 +5,7 @@ A curated list of awesome startup-related resources.
 * [The Only Thing That Matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen on Team, Product, and Market.
 * [Market Always Wins](https://medium.com/startup-lessons-1/market-always-wins-part-1-16860a0c879c) - More on Team, Product, and Market.
 * [Five Ways to Build a $100 Million Business](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) - Annual contract value implies go-to-market strategy.
+* [The Hidden Patterns of Great Startup Ideas](https://www.nfx.com/post/hidden-patterns-great-startup-ideas/) - 5 mental frameworks to refine your ideas.
 
 ## Product/Market Fit
 * [How Superhuman Built an Engine to Find Product/Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit) - A simple alternative to NPS.
