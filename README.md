@@ -21,6 +21,9 @@ A curated list of awesome startup-related resources.
 * [How VCs Think: The Psychology That Drives Investing Decisions](https://www.nfx.com/post/how-vcs-think-investing-decisions/) - Gigi Levy-Weiss on the VC mindset.
 * [The Bessemer Memos](https://www.bvp.com/memos) - Retrospective collection of investment recommendation memoranda.
 
+## SaaS
+* [Best of SaaStr](https://www.saastr.com/best-of-saastr/) - Jason Lemkin on everything SaaS.
+
 ## Investing
 * [Power Laws in Venture](https://reactionwheel.net/2015/06/power-laws-in-venture.html) (math heavy) - Modeling venture returns.
 * [Why Do VCs Insist on Only Investing in High-Risk, High-Return Companies?](https://reactionwheel.net/2019/01/why-do-vcs-insist-on-only-investing-in-high-risk-high-return-companies.html) - Implications of power law on venture capital.
