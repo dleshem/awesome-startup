@@ -33,7 +33,8 @@
 
 ## Investing
 * [Power Laws in Venture](https://reactionwheel.net/2015/06/power-laws-in-venture.html) (math heavy) - Modeling venture returns.
-* [Why Do VCs Insist on Only Investing in High-Risk, High-Return Companies?](https://reactionwheel.net/2019/01/why-do-vcs-insist-on-only-investing-in-high-risk-high-return-companies.html) - Implications of power law on venture capital.
+* [Why Do VCs Insist on Only Investing in High-Risk, High-Return Companies?](https://reactionwheel.net/2019/01/why-do-vcs-insist-on-only-investing-in-high-risk-high-return-companies.html) - Implications of power-law on venture capital.
+* [What AngelList Data Says About Power-Law Returns in Venture Capital](https://www.angellist.com/blog/what-angellist-data-says-about-power-law-returns-in-venture-capital) - Power-law returns and portfolio construction.
 * [Betting on the Ponies: Non-Unicorn Investing](https://reactionwheel.net/2014/07/betting-ponies.html) - A framework for angel investing.
 * [Playing Different Games](https://randle.substack.com/p/playing-different-games) - How Tiger Global is disrupting venture capital.
 * [Venture Capital - A Practical Guide to Fund Formation and Management](https://seraf-investor.com/compass/article/venture-capital-practical-guide-fund-formation-and-management-series) - How to raise and manage funds.
