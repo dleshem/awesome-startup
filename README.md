@@ -16,6 +16,7 @@ A curated list of awesome startup-related resources.
 ## Culture
 * [Netflix Culture](https://www.slideshare.net/reed2001/culture-1798664) - Reed Hastings on creating a culture of excellence and high performance.
 * [Why Amazon is Eating the World](https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/) - Jeff Bezos' method for optimizing Amazon on all levels.
+* [Buffer Transparency](https://buffer.com/transparency) - Buffer's radically transparent work culture.
 
 ## Recruiting, Hiring, and Compensation
 * [A Counterintuitive System for Startup Compensation](https://review.firstround.com/A-Counterintuitive-System-for-Startup-Compensation) - The case for formulaic compensation.
