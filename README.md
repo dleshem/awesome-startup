@@ -1,5 +1,5 @@
 # Awesome Startup
-A curated list of awesome startup-related resources.
+[Danny Leshem](https://www.linkedin.com/in/danny-leshem/)'s list of awesome startup-related resources.
 
 ## Evaluating Ideas
 * [The Only Thing That Matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen on Team, Product, and Market.
