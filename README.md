@@ -17,6 +17,9 @@ A curated list of awesome startup-related resources.
 * [Netflix Culture](https://www.slideshare.net/reed2001/culture-1798664) - Reed Hastings on creating a culture of excellence and high performance.
 * [Why Amazon is Eating the World](https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/) - Jeff Bezos' method for optimizing Amazon on all levels.
 
+## Recruiting, Hiring, and Compensation
+* [A Counterintuitive System for Startup Compensation](https://review.firstround.com/A-Counterintuitive-System-for-Startup-Compensation) - The case for formulaic compensation.
+
 ## Fundraising
 * [How VCs Think: The Psychology That Drives Investing Decisions](https://www.nfx.com/post/how-vcs-think-investing-decisions/) - Gigi Levy-Weiss on the VC mindset.
 * [Secrets of Sand Hill Road](https://www.goodreads.com/book/show/42348376-secrets-of-sand-hill-road) (book) - Scott Kupor on venture capital and how to get it. 
