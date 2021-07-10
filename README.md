@@ -20,7 +20,7 @@ A curated list of awesome startup-related resources.
 
 ## Recruiting, Hiring, and Compensation
 * [A Counterintuitive System for Startup Compensation](https://review.firstround.com/A-Counterintuitive-System-for-Startup-Compensation) - The case for formulaic compensation.
-* [Closing the Information Gap on Employee Option Grants](https://medium.com/aleph-vc/closing-the-information-gap-on-employee-option-grants-part-one-b6d5410bb786) Eden Shochat's fair and honest ESOP offer letter.
+* [Closing the Information Gap on Employee Option Grants](https://medium.com/aleph-vc/closing-the-information-gap-on-employee-option-grants-part-one-b6d5410bb786) - Eden Shochat's fair and honest ESOP offer letter.
 
 ## Fundraising
 * [How VCs Think: The Psychology That Drives Investing Decisions](https://www.nfx.com/post/how-vcs-think-investing-decisions/) - Gigi Levy-Weiss on the VC mindset.
