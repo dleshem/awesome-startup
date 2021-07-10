@@ -19,6 +19,7 @@ A curated list of awesome startup-related resources.
 * [Buffer Transparency](https://buffer.com/transparency) - Buffer's radically transparent work culture.
 
 ## Recruiting, Hiring, and Compensation
+* [Hiring: The Lake Wobegon Strategy](https://ai.googleblog.com/2006/03/hiring-lake-wobegon-strategy.html) - Peter Norvig on Google's simple hiring rule for growing without compromising on quality ([paper](https://theory.stanford.edu/~sergei/papers/hiring-soda.pdf)).
 * [A Counterintuitive System for Startup Compensation](https://review.firstround.com/A-Counterintuitive-System-for-Startup-Compensation) - The case for formulaic compensation.
 * [How We Decide What to Pay Our Team](https://buffer.com/resources/compensation-philosophy/) - Buffer's open salaries philosophy (also read: [1](https://buffer.com/resources/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/), [2](https://buffer.com/resources/transparent-salaries/)).
 * [Closing the Information Gap on Employee Option Grants](https://medium.com/aleph-vc/closing-the-information-gap-on-employee-option-grants-part-one-b6d5410bb786) - Eden Shochat's fair and honest ESOP offer letter.
