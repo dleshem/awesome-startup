@@ -8,7 +8,7 @@
 * [The Hidden Patterns of Great Startup Ideas](https://www.nfx.com/post/hidden-patterns-great-startup-ideas/) - 5 mental frameworks to refine your ideas.
 * [The Two Types of SaaS Value Propositions](https://medium.com/@danny.leshem/the-two-types-of-saas-value-propositions-1d89a526790c) - Solving a pain trumps improving performance.
 
-## Product and UX
+## Product, UX
 * [The Six Star Review](https://www.youtube.com/watch?v=W608u6sBFpo&t=30m53s) (6min video) - Brian Chesky on creating delightful products.
 * [How Superhuman Built an Engine to Find Product/Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit) - A simple alternative to NPS.
 
@@ -17,7 +17,7 @@
 * [Why Amazon is Eating the World](https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/) - Jeff Bezos' method for optimizing Amazon on all levels.
 * [Buffer Transparency](https://buffer.com/transparency) - Buffer's radically transparent work culture.
 
-## Recruiting, Hiring, Compensation and Termination
+## Recruitment, Hiring, Compensation, Termination
 * [Hiring: The Lake Wobegon Strategy](https://ai.googleblog.com/2006/03/hiring-lake-wobegon-strategy.html) - Peter Norvig on Google's simple hiring rule for growing without compromising on quality (also: [paper](https://theory.stanford.edu/~sergei/papers/hiring-soda.pdf)).
 * [A Counterintuitive System for Startup Compensation](https://review.firstround.com/A-Counterintuitive-System-for-Startup-Compensation) - The case for formulaic compensation.
 * [How We Decide What to Pay Our Team](https://buffer.com/resources/compensation-philosophy/) - Buffer's open salaries philosophy (also read: [1](https://buffer.com/resources/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/), [2](https://buffer.com/resources/transparent-salaries/)).
