@@ -15,6 +15,7 @@
 
 ## Culture
 * [Netflix Culture](https://www.slideshare.net/reed2001/culture-1798664) - Reed Hastings on creating a culture of excellence and high performance.
+* [Spotify Engineering Culture](https://www.youtube.com/watch?v=Yvfz4HGtoPc) (13min video) - Spotify's squads and guilds model (also [part 2](https://www.youtube.com/watch?v=vOt4BbWLWQw), 13min video).
 * [Why Amazon is Eating the World](https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/) - Jeff Bezos' method for optimizing Amazon on all levels.
 * [Buffer Transparency](https://buffer.com/transparency) - Buffer's radically transparent work culture.
 
