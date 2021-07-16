@@ -6,6 +6,7 @@
 * [Market Always Wins](https://medium.com/startup-lessons-1/market-always-wins-part-1-16860a0c879c) - More on Team, Product, and Market.
 * [Five Ways to Build a $100 Million Business](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) - Annual contract value implies go-to-market strategy.
 * [The Hidden Patterns of Great Startup Ideas](https://www.nfx.com/post/hidden-patterns-great-startup-ideas/) - 5 mental frameworks to refine your ideas.
+* [The Two Types of SaaS Value Propositions](https://medium.com/@danny.leshem/the-two-types-of-saas-value-propositions-1d89a526790c) - Improving business performance vs. solving a pain.
 
 ## Product and UX
 * [The Six Star Review](https://www.youtube.com/watch?v=W608u6sBFpo&t=30m53s) (6min video) - Brian Chesky on creating delightful products.
