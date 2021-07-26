@@ -1,12 +1,13 @@
 # Awesome Startup
 [Danny Leshem](https://www.linkedin.com/in/danny-leshem/)'s list of awesome startup-related resources.
 
-## Evaluating Ideas
+## Ideation
 * [The Only Thing That Matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen on Team, Product, and Market.
 * [Market Always Wins](https://medium.com/startup-lessons-1/market-always-wins-part-1-16860a0c879c) - More on Team, Product, and Market.
 * [Five Ways to Build a $100 Million Business](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) - Annual contract value implies go-to-market strategy.
 * [The Hidden Patterns of Great Startup Ideas](https://www.nfx.com/post/hidden-patterns-great-startup-ideas/) - 5 mental frameworks to refine your ideas.
 * [The Two Types of SaaS Value Propositions](https://medium.com/@danny.leshem/the-two-types-of-saas-value-propositions-1d89a526790c) - Solving a pain trumps improving performance.
+* [The Bus Ticket Theory of Genius](http://www.paulgraham.com/genius.html) - Paul Graham on obsessing about something that matters.
 
 ## Product, UX
 * [The Complete Guide to the Kano Model](https://www.career.pm/briefings/kano-model) - Noriaki Kano's feature prioritization framework.
