@@ -46,4 +46,5 @@
 * [Venture Capital - A Practical Guide to Fund Formation and Management](https://seraf-investor.com/compass/article/venture-capital-practical-guide-fund-formation-and-management-series) - How to raise and manage funds.
 
 ## General
+* [Startup Playbook](https://playbook.samaltman.com/) - Sam Altman's "Startup 101".
 * [The Hard Thing About Hard Things](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) (book) - Ben Horowitz's startup experience. A must-read.
