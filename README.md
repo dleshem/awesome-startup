@@ -8,6 +8,7 @@
 * [The Hidden Patterns of Great Startup Ideas](https://www.nfx.com/post/hidden-patterns-great-startup-ideas/) - 5 mental frameworks to refine your ideas.
 * [The Two Types of SaaS Value Propositions](https://medium.com/@danny.leshem/the-two-types-of-saas-value-propositions-1d89a526790c) - Solving a pain trumps improving performance.
 * [The Bus Ticket Theory of Genius](http://www.paulgraham.com/genius.html) - Paul Graham on obsessing about something that matters.
+* [The Mom Test](https://www.goodreads.com/book/show/52283963-the-mom-test) (book) - How to talk to customers & learn if your business is a good idea when everyone is lying to you.
 
 ## Product, UX
 * [The Complete Guide to the Kano Model](https://www.career.pm/briefings/kano-model) - Noriaki Kano's feature prioritization framework.
@@ -30,7 +31,11 @@
 
 ## Fundraising
 * [How VCs Think: The Psychology That Drives Investing Decisions](https://www.nfx.com/post/how-vcs-think-investing-decisions/) - Gigi Levy-Weiss on the VC mindset.
-* [Secrets of Sand Hill Road](https://www.goodreads.com/book/show/42348376-secrets-of-sand-hill-road) (book) - Scott Kupor on venture capital and how to get it. 
+* [Secrets of Sand Hill Road](https://www.goodreads.com/
+
+
+
+/show/42348376-secrets-of-sand-hill-road) (book) - Scott Kupor on venture capital and how to get it. 
 * [Venture Deals](https://www.goodreads.com/book/show/11865558-venture-deals) (book) - The technical aspects of raising from VCs.
 * [The Bessemer Memos](https://www.bvp.com/memos) - Retrospective collection of investment recommendation memoranda.
 
