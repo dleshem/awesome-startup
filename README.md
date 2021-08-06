@@ -1,6 +1,11 @@
 # Awesome Startup
 [Danny Leshem](https://www.linkedin.com/in/danny-leshem/)'s list of awesome startup-related resources.
 
+## General
+* [Startup Playbook](https://playbook.samaltman.com/) - Sam Altman's thoughts on startups.
+* [The Hard Thing About Hard Things](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) (book) - Ben Horowitz's startup experience. A must-read.
+* [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one) (book) - Peter Thiel's thoughts on startups.
+
 ## Ideation
 * [The Only Thing That Matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen on Team, Product, and Market.
 * [Market Always Wins](https://medium.com/startup-lessons-1/market-always-wins-part-1-16860a0c879c) - More on Team, Product, and Market.
@@ -45,7 +50,3 @@
 * [Betting on the Ponies: Non-Unicorn Investing](https://reactionwheel.net/2014/07/betting-ponies.html) - A framework for angel investing.
 * [Playing Different Games](https://randle.substack.com/p/playing-different-games) - How Tiger Global is disrupting venture capital.
 * [Venture Capital - A Practical Guide to Fund Formation and Management](https://seraf-investor.com/compass/article/venture-capital-practical-guide-fund-formation-and-management-series) - How to raise and manage funds.
-
-## General
-* [Startup Playbook](https://playbook.samaltman.com/) - Sam Altman's "Startup 101".
-* [The Hard Thing About Hard Things](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) (book) - Ben Horowitz's startup experience. A must-read.
