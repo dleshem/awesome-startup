@@ -2,6 +2,7 @@
 [Danny Leshem](https://www.linkedin.com/in/danny-leshem/)'s list of awesome startup-related resources.
 
 ## General
+* [Entrepreneurship is a Craft](https://sloanreview.mit.edu/article/entrepreneurship-is-a-craft-heres-why-thats-important/) - Entrepreneurship is neither science nor art, it’s a craft.
 * [Startup Playbook](https://playbook.samaltman.com/) - Sam Altman's thoughts on startups.
 * [The Hard Thing About Hard Things](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) (book) - Ben Horowitz's startup experience. A must-read.
 * [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one) (book) - Peter Thiel's thoughts on startups.
