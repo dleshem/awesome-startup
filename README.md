@@ -6,7 +6,7 @@
 * [The Hard Thing About Hard Things](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) (book) - Ben Horowitz's startup experience. A must-read.
 * [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one) (book) - Peter Thiel's thoughts on startups.
 
-## Ideation
+## Ideation, Filtering, Validation
 * [The Only Thing That Matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen on Team, Product, and Market.
 * [Market Always Wins](https://medium.com/startup-lessons-1/market-always-wins-part-1-16860a0c879c) - More on Team, Product, and Market.
 * [Five Ways to Build a $100 Million Business](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) - Annual contract value implies go-to-market strategy.
