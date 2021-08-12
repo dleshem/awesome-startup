@@ -3,7 +3,7 @@
 
 ## General
 * [Entrepreneurship is a Craft](https://sloanreview.mit.edu/article/entrepreneurship-is-a-craft-heres-why-thats-important/) - Entrepreneurship is neither science nor art, it’s a craft.
-* [The Differences Between Starting a Business and Starting a Startup](https://amit-mittelman.medium.com/the-difference-between-starting-a-business-and-starting-a-startup-ded14c5dcba6) - These are two very different things.
+* [The Differences Between Starting a Business and Starting a Startup](https://amit-mittelman.medium.com/the-difference-between-starting-a-business-and-starting-a-startup-ded14c5dcba6) - Startup ≠ Business.
 * [Startup Playbook](https://playbook.samaltman.com/) - Sam Altman's thoughts on startups.
 * [The Hard Thing About Hard Things](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) (book) - Ben Horowitz's startup experience. A must-read.
 * [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one) (book) - Peter Thiel's thoughts on startups.
