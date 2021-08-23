@@ -21,6 +21,7 @@
 * [The Complete Guide to the Kano Model](https://www.career.pm/briefings/kano-model) - Noriaki Kano's feature prioritization framework.
 * [The Six Star Review](https://www.youtube.com/watch?v=W608u6sBFpo&t=30m53s) (6min video) - Brian Chesky on creating delightful products.
 * [How Superhuman Built an Engine to Find Product/Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit) - A simple alternative to NPS.
+* [A/Z Testing](http://he.startupiko.com/aztesting/) (Hebrew) - Iris Shoor's approach to early-stage experiments.
 * [How to Measure Product Retention](https://medium.com/@drewmck/how-to-measure-your-products-retention-the-most-misunderstood-and-undervalued-metric-c1515fcc1782) - Intro to cohort anlaysis.
 
 ## Culture
