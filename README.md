@@ -16,6 +16,7 @@
 * [The Two Types of SaaS Value Propositions](https://medium.com/@danny.leshem/the-two-types-of-saas-value-propositions-1d89a526790c) - Solving a pain trumps improving performance.
 * [The Bus Ticket Theory of Genius](http://www.paulgraham.com/genius.html) - Paul Graham on obsessing about something that matters.
 * [The Mom Test](https://www.goodreads.com/book/show/52283963-the-mom-test) (book) - How to talk to customers & learn if your business is a good idea when everyone is lying to you.
+* [The 20 Interview Rule](https://www.saastr.com/planning-to-do-a-saas-start-up-dont-forget-the-20-interview-rule/) - Interview 20 potential customers before you write a line of code.
 
 ## Product, UX
 * [The Complete Guide to the Kano Model](https://www.career.pm/briefings/kano-model) - Noriaki Kano's feature prioritization framework.
