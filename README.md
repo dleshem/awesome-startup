@@ -44,6 +44,9 @@
 * [Venture Deals](https://www.goodreads.com/book/show/11865558-venture-deals) (book) - The technical aspects of raising from VCs.
 * [The Bessemer Memos](https://www.bvp.com/memos) - Retrospective collection of investment recommendation memoranda.
 
+## Bootstrapping
+* [Death by a Thousand Paper Cuts](https://threadreaderapp.com/thread/1376985854229504007.html) ([tweetstorm](https://twitter.com/awilkinson/status/1376985854229504007)) - Lessons learned from competing with Asana.
+
 ## SaaS
 * [Best of SaaStr](https://www.saastr.com/best-of-saastr/) - Jason Lemkin on everything SaaS.
 
