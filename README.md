@@ -9,12 +9,12 @@
 * [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one) (book) - Peter Thiel's thoughts on startups.
 
 ## Ideation, Filtering, Validation
+* [The Bus Ticket Theory of Genius](http://www.paulgraham.com/genius.html) - Paul Graham on obsessing about something that matters.
 * [The Only Thing That Matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen on Team, Product, and Market.
 * [Market Always Wins](https://medium.com/startup-lessons-1/market-always-wins-part-1-16860a0c879c) - More on Team, Product, and Market.
 * [Five Ways to Build a $100 Million Business](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) - Annual contract value implies go-to-market strategy.
 * [The Hidden Patterns of Great Startup Ideas](https://www.nfx.com/post/hidden-patterns-great-startup-ideas/) - 5 mental frameworks to refine your ideas.
 * [The Two Types of SaaS Value Propositions](https://medium.com/@danny.leshem/the-two-types-of-saas-value-propositions-1d89a526790c) - Solving a pain trumps improving performance.
-* [The Bus Ticket Theory of Genius](http://www.paulgraham.com/genius.html) - Paul Graham on obsessing about something that matters.
 * [The Mom Test](https://www.goodreads.com/book/show/52283963-the-mom-test) (book) - How to talk to customers & learn if your business is a good idea when everyone is lying to you.
 * [The 20 Interview Rule](https://www.saastr.com/planning-to-do-a-saas-start-up-dont-forget-the-20-interview-rule/) - Interview 20 potential customers before you write a line of code.
 * [The Minimum Viable Testing Process for Evaluating Startup Ideas](https://review.firstround.com/the-minimum-viable-testing-process-for-evaluating-startup-ideas) - Identify and test your risky assumptions.
