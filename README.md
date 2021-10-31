@@ -43,7 +43,7 @@
 * [How VCs Think: The Psychology That Drives Investing Decisions](https://www.nfx.com/post/how-vcs-think-investing-decisions/) - Gigi Levy-Weiss on the VC mindset.
 * [Secrets of Sand Hill Road](https://www.goodreads.com/book/show/42348376-secrets-of-sand-hill-road) (book) - Scott Kupor on venture capital and how to get it.
 * [Venture Deals](https://www.goodreads.com/book/show/11865558-venture-deals) (book) - The technical aspects of raising from VCs.
-* [The Bessemer Memos](https://www.bvp.com/memos) - Retrospective collection of investment recommendation memoranda.
+* [The Bessemer Memos](https://www.bvp.com/memos) - Retrospective collection of investment recommendation memoranda (also read: [Anti-Portfolio](https://www.bvp.com/anti-portfolio)).
 
 ## Bootstrapping
 * [Death by a Thousand Paper Cuts](https://twitter.com/awilkinson/status/1376985854229504007) (tweetstorm, [unrolled](https://threadreaderapp.com/thread/1376985854229504007.html)) - Lessons learned from competing with Asana.
