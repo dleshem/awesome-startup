@@ -51,7 +51,7 @@
 
 ## SaaS
 * [Best of SaaStr](https://www.saastr.com/best-of-saastr/) - Jason Lemkin on everything SaaS.
-* [The SaaS Metrics That Matter](https://sacks.substack.com/p/the-saas-metrics-that-matter) - KPI for SaaS companies (also: [SaaSGrid](https://www.saasgrid.com/))
+* [The SaaS Metrics That Matter](https://sacks.substack.com/p/the-saas-metrics-that-matter) - KPIs for SaaS companies (also: [SaaSGrid](https://www.saasgrid.com/)).
 
 ## Investing
 * [Power Laws in Venture](https://reactionwheel.net/2015/06/power-laws-in-venture.html) (math heavy) - Modeling venture returns.
