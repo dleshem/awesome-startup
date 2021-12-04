@@ -32,6 +32,7 @@
 * [Scaling Agile @ Spotify](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf) - Spotify's squads and guilds model (or watch this 26min video: [1](https://www.youtube.com/watch?v=Yvfz4HGtoPc), [2](https://www.youtube.com/watch?v=vOt4BbWLWQw)).
 * [Why Amazon is Eating the World](https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/) - Jeff Bezos' method for optimizing Amazon on all levels.
 * [Buffer Transparency](https://buffer.com/transparency) - Buffer's radically transparent work culture.
+* [Strong Opinions Loosely Held Might be the Worst Idea in Tech](https://blog.glowforge.com/strong-opinions-loosely-held-might-be-the-worst-idea-in-tech/) - Adding a degree of uncertainty to your statements.
 
 ## Recruitment, Hiring, Compensation, Termination
 * [Hiring: The Lake Wobegon Strategy](https://ai.googleblog.com/2006/03/hiring-lake-wobegon-strategy.html) - Peter Norvig on Google's simple hiring rule for growing without compromising on quality (also: [paper](https://theory.stanford.edu/~sergei/papers/hiring-soda.pdf)).
