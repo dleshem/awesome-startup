@@ -33,6 +33,7 @@
 * [Why Amazon is Eating the World](https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/) - Jeff Bezos' method for optimizing Amazon on all levels.
 * [Buffer Transparency](https://buffer.com/transparency) - Buffer's radically transparent work culture.
 * [Strong Opinions Loosely Held Might be the Worst Idea in Tech](https://blog.glowforge.com/strong-opinions-loosely-held-might-be-the-worst-idea-in-tech/) - Adding a degree of uncertainty to your statements.
+* [Amazon's 2015 Letter to Shareholders](https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm) (_Invention Machine_ part) - One-way and two-way door decisions.
 
 ## Recruitment, Hiring, Compensation, Termination
 * [Hiring: The Lake Wobegon Strategy](https://ai.googleblog.com/2006/03/hiring-lake-wobegon-strategy.html) - Peter Norvig on Google's simple hiring rule for growing without compromising on quality (also: [paper](https://theory.stanford.edu/~sergei/papers/hiring-soda.pdf)).
