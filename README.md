@@ -55,6 +55,9 @@
 * [Best of SaaStr](https://www.saastr.com/best-of-saastr/) - Jason Lemkin on everything SaaS.
 * [The SaaS Metrics That Matter](https://sacks.substack.com/p/the-saas-metrics-that-matter) - KPIs for SaaS companies (also: [SaaSGrid](https://www.saasgrid.com/)).
 
+## Governance
+* [Your Board of Directors is Probably Going to Fire You](https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html) - Running your board in a way that will not get you fired.
+
 ## Investing
 * [Power Laws in Venture](https://reactionwheel.net/2015/06/power-laws-in-venture.html) (math heavy) - Modeling venture returns.
 * [Why Do VCs Insist on Only Investing in High-Risk, High-Return Companies?](https://reactionwheel.net/2019/01/why-do-vcs-insist-on-only-investing-in-high-risk-high-return-companies.html) - Implications of power-law on venture capital.
