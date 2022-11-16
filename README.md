@@ -65,3 +65,4 @@
 * [Betting on the Ponies: Non-Unicorn Investing](https://reactionwheel.net/2014/07/betting-ponies.html) - A framework for angel investing.
 * [Playing Different Games](https://randle.substack.com/p/playing-different-games) - How Tiger Global is disrupting venture capital.
 * [Venture Capital - A Practical Guide to Fund Formation and Management](https://seraf-investor.com/compass/article/venture-capital-practical-guide-fund-formation-and-management-series) - How to raise and manage funds.
+* [The Three-Body Problem](https://assets-global.website-files.com/605db59b78445cf5ae548e49/628b9d826f9af3217c9807a2_Three-Body%20Problem_%20Finding%20the%20New%20Stable%20Points%20in%20Venture%20Capital.pdf) - Finding the new stable points in venture capital.
