@@ -13,7 +13,7 @@
 * [The Bus Ticket Theory of Genius](http://www.paulgraham.com/genius.html) - Paul Graham on obsessing about something that matters.
 * [The Only Thing That Matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen on Team, Product, and Market.
 * [Market Always Wins](https://medium.com/startup-lessons-1/market-always-wins-part-1-16860a0c879c) - More on Team, Product, and Market.
-* [Five Ways to Build a $100 Million Business](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) - Annual contract value implies go-to-market strategy.
+* [Five Ways to Build a $100 Million Business](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) - Annual contract value implies go-to-market strategy (also: [Five Years Later](http://christophjanz.blogspot.com/2019/04/five-years-later-five-ways-to-build-100.html)).
 * [The Hidden Patterns of Great Startup Ideas](https://www.nfx.com/post/hidden-patterns-great-startup-ideas/) - 5 mental frameworks to refine your ideas.
 * [The Two Types of SaaS Value Propositions](https://medium.com/@danny.leshem/the-two-types-of-saas-value-propositions-1d89a526790c) - Solving a pain trumps improving performance.
 * [The Mom Test](https://www.goodreads.com/book/show/52283963-the-mom-test) (book) - How to talk to customers & learn if your business is a good idea when everyone is lying to you.
