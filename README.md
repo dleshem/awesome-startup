@@ -1,4 +1,3 @@
-# Awesome Startup
 [Danny Leshem](https://www.linkedin.com/in/danny-leshem/)'s list of awesome startup-related resources.
 
 ## General
