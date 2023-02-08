@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+title: Awesome Startup
+description: A curated list of awesome startup-related resources.
+
+google_analytics: 
+
+github:
+  is_project_page: false
