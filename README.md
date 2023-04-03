@@ -20,6 +20,7 @@
 * [The Minimum Viable Testing Process for Evaluating Startup Ideas](https://review.firstround.com/the-minimum-viable-testing-process-for-evaluating-startup-ideas) - Identify and test your risky assumptions.
 
 ## Product, UX
+* [The Herbie Model](https://www.youtube.com/watch?v=L2X8vOOrfwE) - Mike Maples on iterating towards product-market fit.
 * [The Complete Guide to the Kano Model](https://www.career.pm/briefings/kano-model) - Noriaki Kano's feature prioritization framework.
 * [The Six Star Review](https://www.youtube.com/watch?v=W608u6sBFpo&t=30m53s) (6min video) - Brian Chesky on creating delightful products.
 * [How Superhuman Built an Engine to Find Product/Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit) - A simple alternative to NPS.
