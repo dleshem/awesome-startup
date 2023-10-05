@@ -5,6 +5,7 @@
 * [The Differences Between Starting a Business and Starting a Startup](https://amit-mittelman.medium.com/the-difference-between-starting-a-business-and-starting-a-startup-ded14c5dcba6) - Startup ≠ Business.
 * [Startup = Growth](http://www.paulgraham.com/growth.html) - Paul Graham's thoughts on startups.
 * [Startup Playbook](https://playbook.samaltman.com/) - Sam Altman's thoughts on startups.
+* [How to Start a Startup](https://www.youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1) (20 × 45min video) - Y Combinator's startups course in Stanford.
 * [The Hard Thing About Hard Things](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) (book) - Ben Horowitz's startup experience. A must-read.
 * [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one) (book) - Peter Thiel's thoughts on startups.
 
